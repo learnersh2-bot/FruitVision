@@ -15,4 +15,4 @@
 - ✅ Beautiful bounding boxes + confidence
 - ✅ Works on laptop (no GPU)
 
-## 📈 Expected Results
+
